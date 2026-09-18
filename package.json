@@ -1,0 +1,10 @@
+{
+  "name": "100-days-challenge",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A fully customizable 100-day personal challenge tracker — dynamic categories, versioned task history, streaks, milestones, and a premium light/dark UI. Static site, zero dependencies.",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  }
+}
